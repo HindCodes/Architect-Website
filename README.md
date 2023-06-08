@@ -1,7 +1,7 @@
 ## 🏗Check out this Web App built as an Architecht Website boasting many cool features!🏗
 
 ## 👉 THE HOMEPAGE
-💡 The homepage includes a zoom-in features as well as text transitioning.
+💡 The homepage includes a zoom-in feature as well as text transitioning.
 ![image](https://github.com/HindCodes/Architect-Website/assets/121991962/d7cf70ac-304f-4d57-a2e9-64cd3016b5ff)
 
 
