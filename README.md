@@ -1,7 +1,7 @@
 ## 🏗Check out this Web App built as an Architecht Website boasting many cool features!🏗
 
 ## 👉 THE HOMEPAGE
-💡 The homepage includes a zoom-in features as well as a fun 
+💡 The homepage includes a zoom-in features as well as text transitioning.
 ![image](https://github.com/HindCodes/Architect-Website/assets/121991962/d7cf70ac-304f-4d57-a2e9-64cd3016b5ff)
 
 
@@ -22,4 +22,4 @@
 💡 The footer consists of a contact section and social links. The arrow to the left scrolls back to the homepage section.
 ![image](https://github.com/HindCodes/Architect-Website/assets/121991962/4e7b1e57-dc80-4de6-a1fc-e2fbade65ea1)
 
-## 🔥Live Link Here!!🔥
+## 🔥[Live Link Here!!](https://hindcodes.github.io/Architect-Website/)🔥
