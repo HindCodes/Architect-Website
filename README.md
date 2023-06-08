@@ -1,4 +1,4 @@
-## 🏗Check out this Web App built as an Architecht Website boasting many cool features!🏗
+## 🏗Check out this Web App boasting many cool features!🏗
 
 ## 👉 THE HOMEPAGE
 💡 The homepage includes a zoom-in feature as well as text transitioning.
